@@ -2,6 +2,10 @@
 
 ##- Name : Ansa Minulloh T. H.
 
+![image](https://user-images.githubusercontent.com/93690714/222308030-9c9c9f4b-3cd8-4eab-8084-0a02ce3851f4.png)
+![image](https://user-images.githubusercontent.com/93690714/222308088-77f54de7-e36a-4e43-83db-fd2869977dbc.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
